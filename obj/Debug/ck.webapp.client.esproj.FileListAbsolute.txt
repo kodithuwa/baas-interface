@@ -1,0 +1,2 @@
+C:\Users\kodit\CK\src\CK.WebApp\ck.webapp.client\obj\Debug\ck.webapp.client.esproj.CoreCompileInputs.cache
+D:\Projects\CK\src\CK.WebApp\ck.webapp.client\obj\Debug\ck.webapp.client.esproj.CoreCompileInputs.cache
